@@ -19,7 +19,7 @@ dotenv.config({
 }) 
 
 app.use(cors({
-  origin: 'http://localhost:5173', // or ['http://localhost:5173', 'https://your-frontend.vercel.app']
+  origin: 'https://aurcode.vercel.app', // or ['http://localhost:5173', 'https://your-frontend.vercel.app']
   credentials: true, // only if using cookies
 }));
 
