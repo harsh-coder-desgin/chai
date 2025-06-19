@@ -1,6 +1,6 @@
 // require('dotenv').config({path:'/env'})
 import { app } from "./app.js"
-import cors from 'cors';
+// import cors from 'cors';
 
 
 
